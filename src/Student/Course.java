@@ -36,9 +36,8 @@ public class Course {
             }
         }
     }
-}
-<<<<<<< Updated upstream
-=======
+
 //heloo
 //pank
->>>>>>> Stashed changes
+//hiu
+
